@@ -1,0 +1,9 @@
+# robots.txt file to configure web indexing
+User-agent: *
+
+# You can exclude specfic directories to indexing if you wish, this includes all subdirectories.  Full indexing is disabled by default.  Examples:
+#Disallow: /cgi-bin/
+#Disallow: /tmp/
+
+# Comment this out to enable full indexing
+Disallow: /
