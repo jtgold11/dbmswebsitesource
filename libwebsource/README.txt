@@ -1,5 +1,6 @@
 JACOB GOLD 
-Clemson University semester project
+Website for a library with a corresponding database.
+Functionality limited to account managment, viewing books, checkng books out, and queuing books for waitlist.
 Included:
 Database dump used for website
 Website source code
